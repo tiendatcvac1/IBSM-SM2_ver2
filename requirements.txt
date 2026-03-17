@@ -1,8 +1,3 @@
 streamlit
-docx
+python-docx
 coincurve
-secrets
-time
-hashlib
-datetime
-io
